@@ -38,7 +38,7 @@ These are some of the programs I built during a coding bootcamp, which covered w
 
     This is the first web app that I made. It is written in Python and uses the Flask framework to pass data between HTML pages and the Python engine. It calls a NASA API to check how many asteroids are currently in the near earth orbit, and returns information about these.  
     
-    It is deployed on Heroku and can be viewed [here](https://sheltered-savannah-14979.herokuapp.com/).
+    This app is deployed on Heroku and can be viewed [here](https://sheltered-savannah-14979.herokuapp.com/).
 
 * [**Phonebook Webapp**](https://github.com/hpellis/phonebook_webapp)  
 

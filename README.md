@@ -46,7 +46,7 @@ These are some of the programs I built during a coding bootcamp, which covered w
 
 * [**Task Manager Webapp**](https://github.com/hpellis/task_manager_app)  
 
-    For my final project I made a CRUD task manager app. I built a RESTful API with Python and Flask, and used Jinja to connect this to an HTML/CSS front-end. I also used SQLite to create a database and wrote SQL queries to populate the database and retrieve and edit entries from it.
+    For my final project I made a task manager app. I built a RESTful API with Python and Flask, and used Jinja to connect this to an HTML/CSS front-end. I also used SQLite to create a database and wrote SQL queries to populate the database and retrieve and edit entries from it.
     
     
    

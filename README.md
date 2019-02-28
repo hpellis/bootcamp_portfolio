@@ -43,6 +43,14 @@ These are some of the programs I built during a coding bootcamp, which covered w
 * [**Phonebook Webapp**](https://github.com/hpellis/phonebook_webapp)  
 
     This full-stack web application is an online phonebook which can be used to search for (invented) businesses or individuals who appear in the database. I used SQLite to create a database, and built a Python search engine that uses SQL queries to find and return relevant results. The app is accessible via a front-end interface, which uses Flask to receive user inputs from HTML forms and to send search results to HTML tables.   
+
+* [**Task Manager Webapp**](https://github.com/hpellis/task_manager_app)  
+
+    For my final project I made a CRUD task manager app. I built a RESTful API with Python and Flask, and used Jinja to connect this to an HTML/CSS front-end. I also used SQLite to create a database and wrote SQL queries to populate the database and retrieve and edit entries from it.
+    
+    
+   
+    
 ## Skills
 
 * TDD
